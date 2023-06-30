@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+body {
+    background-color: #141414;
+    font-family: 'Lato', sans-serif;
+}
+p {
+    color: lightgray;
+}
+.logo-netflix-nav {
+    width:100px;
+}
+.bg-nav {
+    background-color: #141414;
+}
+.avatar-user-nav {
+    width: 30px;
+}
+
+ul {
+    display: flex;
+}
+.grid-main {
+    color: white;
+    border: 1px solid white;
+    padding: 3px; 
+}
+.button-genres {
+    background-color: #141414 !important;
+    width: 90px;
+    padding: 0;
+}
+.media-netflix {
+    width: 100%;
+    transition: transform .1s;
+   
+}
+.media-netflix:hover{
+    transform: scale(1.5);
+}
+.row-footer {
+    margin-top: 10%;
+}
+.icon-footer {
+    color: lightgray;
+    font-size: 1.3em;
+    padding: 5px;
+
+}
+footer div a {
+    color: lightgray;
+    text-decoration: none;
+    font-size: 0.5em;
+}
+.dropdown-item:hover {
+    color : black !important;
+}
+.button-footer {
+    border: 0.6px solid lightgray;
+    background-color: #141414;
+    color: lightgray;
+    font-size: 0.7em;
+    padding: 3px;
+}
+footer div p {
+    font-size: 0.4em;
+
+}
+
+.footer1{
+    height: 60px;
+}

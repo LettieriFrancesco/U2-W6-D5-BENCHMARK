@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+body {
+    background-color: #141414;
+    font-family: 'Lato', sans-serif;
+}
+p {
+    color: lightgray;
+    margin: 0;
+}
+.logo-netflix-nav {
+    width:150px;
+}
+.bg-nav {
+    background-color: #141414;
+}
+h1,h2,h3,h4,span {
+    margin: 0;
+    color: white;
+}
+h1 {
+    font-size: 3em;
+}
+hr {
+    border-color: gray;
+}
+.kids-icon {
+    width: 100%;
+}
+.button-language{
+    background-color: #141414;
+    border: 1px solid white;
+}
+.dropdown-item:hover {
+    color : black !important;
+}
+.button-language{
+    color: white;
+    width: 80px;
+    text-align: center;
+}
+.button-edit {
+    border: 1px solid white;
+    background-color: black;
+    color: lightgrey;
+    padding: 5px;
+    width: 100px; 
+}
+.button-edit1 {
+    border: 1px solid white;
+    background-color: black;
+    color: lightgrey;
+    padding: 5px;
+    width: 100px;
+    cursor: pointer;
+    margin-left: 10px!important;  
+}
+
+.button-edit2 {
+    border: 1px solid white;
+    background-color: black;
+    color: lightgrey;
+    padding: 5px;
+    width: 130px;
+    cursor: pointer;
+    margin-left: 10px!important; 
+}
+.button-edit3 {
+    border: 1px solid white;
+    background-color: black;
+    color: lightgrey;
+    padding: 5px;
+    width: 200px;
+    cursor: pointer;
+    margin-left: 10px!important;
+}
+.button-edit1:hover {
+    background-color: white;
+    color: #141414;
+}
+.button-edit2:hover {
+    background-color: white;
+    color: #141414;
+}
+.button-edit3:hover {
+    background-color: white;
+    color: #141414;
+}
+
